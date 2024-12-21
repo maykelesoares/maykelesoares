@@ -1,4 +1,4 @@
-<h2 align="center">Oie 🎈!  Me chamo Maykele , sou estudante Front-End 💻</h2>
+<h2 align="center">Oie 🎈!  Me chamo Maykele, seja bem vindo💻</h2>
 
 ###
 
